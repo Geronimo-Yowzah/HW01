@@ -1,0 +1,315 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.hw0 {
+    width: 1600px;
+    height: 3600px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.top{
+    height: 60px;
+    border-bottom: 2px solid #E5E5E5;
+    text-align: left;
+    padding: 20px;
+    padding-left: 40px;
+}
+
+.down{
+    height: 60px;
+    border-top: 2px solid #E5E5E5;
+    text-align: left;
+    padding: 20px;
+    padding-left: 40px;
+}
+
+.topic{
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    height: 1800px;
+}
+
+.con1{
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 1rem;
+}
+
+.pic1{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.parag{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+}
+.parag p{
+    margin: 5px 0;
+}
+
+.pic1 img{
+    width: 60%;
+}
+
+.row1{
+    width: 100%;
+    height: 400px;
+    grid-gap: 150px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+.row2{
+    width: 100%;
+    height: 400px;
+    grid-gap: 100px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+.row3{
+    width: 100%;
+    height: 400px;
+    grid-gap: 100px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+.row4{
+    width: 100%;
+    height: 400px;
+    grid-gap: 100px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+.row5{
+    width: 100%;
+    height: 400px;
+    grid-gap: 100px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+.row6{
+    width: 100%;
+    height: 400px;
+    grid-gap: 100px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.row2-1{
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+}
+.p2{
+    text-align: center;
+}
+.p3{
+    text-align: center;
+}
+.p4{
+    text-align: center;
+}
+.p5{
+    text-align: center;
+}
+.p6{
+    text-align: center;
+}
+.pS{
+    text-align: center;
+}
+.p7{
+    text-align: center;
+}
+.p8{
+    text-align: center;
+}
+.p9{
+    text-align: center;
+}
+.p10{
+    text-align: center;
+}
+.p11{
+    text-align: center;
+}
+.p12{
+    text-align: center;
+}
+.p13{
+    text-align: center;
+}
+.p14{
+    text-align: center;
+}
+.p15{
+    text-align: center;
+}
+.p16{
+    text-align: center;
+}
+.p17{
+    text-align: center;
+}
+.p18{
+    text-align: center;
+}
+.p19{
+    text-align: center;
+}
+.p20{
+    text-align: center;
+}
+.p21{
+    text-align: center;
+}
+.p22{
+    text-align: center;
+}
+
+.p1 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p2 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p3 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p4 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p5 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p6 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.pS img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p7 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p8 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p9 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p10 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p11 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p12 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p13 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p14 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p15 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p16 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p17 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p18 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p19 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p20 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p21 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.p22 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
